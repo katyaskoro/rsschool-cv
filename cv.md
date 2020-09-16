@@ -16,7 +16,7 @@ Now I think to change the profile of work and want to obtain a position as a **j
 > | JavaScript | Attention to detail |
 > | Angular (beginner) | Patience |
 
-## Skills
+## Code examples
 > ```
 > // write the function isAnagram
 > let isAnagram = function(test, original) {
