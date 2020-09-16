@@ -30,3 +30,16 @@ Now I think to change the profile of work and want to obtain a position as a **j
 >   }
 > }; 
 > ```
+
+## Experience
+> **Courses at IT-school Mela Rossa, Mogilev 2020**   
+> - Front-End development, 1 module: HTML/CSS (07 March 2020 - 08 April 2020)   
+> - Front-End development, 2 module: JavaScript (25 April 2020 - 23 May 2020) 
+> - Front-End development, 3 module: Angular (16 June 2020 - 30 Jule 2020) 
+
+## Education
+> Mogilev State University of Food Technologies, 2011-2015   
+> Faculty of Economics, Finance and Сredit  
+
+## English
+> Elementary (A2), I hope. I keep learn English to this day with a native speaker.
