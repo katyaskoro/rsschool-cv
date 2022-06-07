@@ -42,4 +42,4 @@ Now I think to change the profile of work and want to obtain a position as a **j
 > Faculty of Economics, Finance and Сredit  
 
 ## English
-> Elementary (A2), I hope. I keep learn English to this day with a native speaker.
+> Elementary (A2). I'm studying English in course "IT English".
