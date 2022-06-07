@@ -2,7 +2,7 @@
 ## Contacts
 > Phone: +375 29 35 88 777   
 > E-mail: [mylife_94@inbox.ru](mailto:mylife_94@inbox.ru)      
-> Telegram: [@katyaskoro](https://t.me/katyaskoro)
+> Telegram: [@bogatayakatya](https://t.me/bogatayakatya)
 
 ## Summary
 > Hello, world! I work as an economist. I started to be interested in IT in February 2020.   
