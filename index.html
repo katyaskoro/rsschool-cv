@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <title>CV Kate S.</title>
+</head>
+
+<body>
+    <!-- main container -->
+    <div class="wrapper">
+        <aside class="sidebar">
+            <img src="./img/photo.jpg" alt="My photo" class="my-photo">
+
+            <!-- contacts container -->
+            <div class="contacts-container">
+                <h3 class="contacts-title">Contacts</h3>
+                <div>
+                    <span class="contacts-link-type">Phone:</span>
+                    <a href="tel:375293588777" class="contacts-link">+375&nbsp;29&nbsp;35&nbsp;88&nbsp;777</a>
+                </div>
+                <div>
+                    <span class="contacts-link-type">E-mail:</span>
+                    <a href="mailto:mylife_94@inbox.ru" class="contacts-link">mylife_94@inbox.ru</a>
+                </div>
+                <div>
+                    <span class="contacts-link-type">Telegram:</span>
+                    <a href="https://t.me/bogatayakatya" class="contacts-link">@bogatayakatya</a>
+                </div>
+            </div>
+
+            <!-- skills -->
+            <div class="skills">
+                <!-- tech skills -->
+                <div class="hard-skills-container">
+                    <h3 class="hard-skills-title">Hard Skills</h3>
+                    <ul>
+                        <li class="hard-skills-item"><span class="hard-skills-text">HTML</span></li>
+                        <li class="hard-skills-item"><span class="hard-skills-text">CSS</span></li>
+                        <li class="hard-skills-item"><span class="hard-skills-text">JavaScript</span></li>
+                        <li class="hard-skills-item"><span class="hard-skills-text">Angular (beginner)</span></li>
+                    </ul>
+                </div>
+
+                <!-- soft skills -->
+                <div class="soft-skills-container">
+                    <h3 class="soft-skills-title">Soft Skills</h3>
+                    <ul>
+                        <li class="soft-skills-item"><span class="soft-skills-text">Good communication and
+                                teamwork</span></li>
+                        <li class="soft-skills-item"><span class="soft-skills-text">Creativity and willingness to
+                                learn</span></li>
+                        <li class="soft-skills-item"><span class="soft-skills-text">Attention to detail</span></li>
+                        <li class="soft-skills-item"><span class="soft-skills-text">Patience</span></li>
+                    </ul>
+                </div>
+            </div>
+        </aside>
+
+        <!-- about me container -->
+        <div class="about-me-container">
+            <!-- about me main info -->
+            <div class="my-info">
+                <h1>Kate Skorobogatova</h1>
+                <p>Hello! I work as a sales coordinator. I started to be interested in IT in February 2020.
+                    Now I think to change the profile of work and want to obtain a position as a <i>junior front-end
+                        developer</i>.</p>
+            </div>
+
+            <!-- code examples -->
+            <div class="my-info">
+                <h3>Code examples</h3>
+                <div class="code-examples">
+                    <code>
+                        // write the function isAnagram <br>
+                        &nbsp;let isAnagram = function(test, original) { <br>
+                            &nbsp;&nbsp;let word1 = test.toLowerCase().split('').sort().join(''); <br>
+                            &nbsp;&nbsp;let word2 = original.toLowerCase().split('').sort().join(''); <br>
+                            <br>
+                            &nbsp;&nbsp;if (word1 == word2) { <br>
+                                &nbsp;&nbsp;&nbsp;return true; <br>
+                            &nbsp;&nbsp;} else { <br>
+                                &nbsp;&nbsp;&nbsp;return false; <br>
+                                &nbsp;&nbsp;} <br>
+                        &nbsp;};
+                    </code>
+                </div>
+            </div>
+
+            <!-- experience -->
+            <div class="my-info">
+                <h3>Experience</h3>
+                <h4>bidMAZE - FE Developer Internship</h4>
+                <ul>
+                    <li>Working with someone else's code</li>
+                    <li>Making improvements and changes to existing pages</li>
+                    <li>Bug fixing</li>
+                </ul>
+                <span>November 2020 - May 2021 | London (remote work)</span>
+
+                <h4>Courses at IT-school Mela Rossa</h4>
+                <ul>
+                    <li>Front-End development, 1 module: HTML/CSS (07 March 2020 - 08 April 2020)</li>
+                    <li>Front-End development, 2 module: JavaScript (25 April 2020 - 23 May 2020)</li>
+                    <li>Front-End development, 3 module: Angular (16 June 2020 - 30 Jule 2020)</li>
+                </ul>
+                <span>March 2020 - Jule 2020 | Belarus, Mogilev</span>
+            </div>
+
+            <!-- education -->
+            <div class="my-info">
+                <h3>Education</h3>
+                <h4>Mogilev State University of Food Technologies</h4>
+                <h5>Faculty of Economics, Finance and Сredit</h5>
+                <span>Septermber 2011 - June 2015 | Belarus, Mogilev</span>
+            </div>
+
+            <!-- english -->
+            <div class="my-info">
+                <h3>English</h3>
+                <p>Elementary (A2). I'm studying English in course "IT English".</p>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <a href="https://github.com/katyaskoro"><img src="img/icons-github.png" alt="icons-github" width="30"></a>
+        <a href="https://rs.school/js/"><img src="img/rs_school_js.svg" alt="rs_school_js" width="70"></a>
+        <p>2022</p>
+    </footer>
+</body>
+
+</html>
